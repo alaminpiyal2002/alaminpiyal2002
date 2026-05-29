@@ -136,9 +136,8 @@ A web app that classifies 6 eye diseases from retinal photos — no specialist h
 | 🚀 | **NASA Space Apps Challenge 2023** — Built *NEXTPLANET*, a planetary habitability assessment tool with team NSU_Inception |
 | 💡 | **Microsoft Imagine Cup 2024** — Led solution design & core implementation for *SHOPSPARK*, an e-commerce optimization platform |
 | ⚡ | **200+** competitive programming problems solved across Codeforces, UVA, LightOJ, HackerRank & Vjudge |
-| 🏁 | **ICPC Regional Contest** participant & Programming Bootcamp graduate at NSU |
-| 🎓 | **BSc in Computer Science & Engineering** — North South University |
-| 👨‍🏫 | **Teaching Assistant** — North South University (Jul 2024 – May 2025) |
+| 🏁 | **ICPC Regional Contest** participant & Programming Bootcamp at NSUPS |
+
 
 </div>
 
@@ -155,8 +154,8 @@ A web app that classifies 6 eye diseases from retinal photos — no specialist h
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaminpiyal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alaminpiyal2002)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamin876123@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alaminpiyal02)
 
 </div>
 
