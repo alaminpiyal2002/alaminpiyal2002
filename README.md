@@ -136,7 +136,7 @@ A web app that classifies 6 eye diseases from retinal photos — no specialist h
 | 🚀 | **NASA Space Apps Challenge 2023** — Built *NEXTPLANET*, a planetary habitability assessment tool with team NSU_Inception |
 | 💡 | **Microsoft Imagine Cup 2024** — Led solution design & core implementation for *SHOPSPARK*, an e-commerce optimization platform |
 | ⚡ | **200+** competitive programming problems solved across Codeforces, UVA, LightOJ, HackerRank & Vjudge |
-| 🏁 | **ICPC Regional Contest** participant & Programming Bootcamp at NSUPS |
+| 🏁 | **ICPC Preliminary Contest** participant & Programming Bootcamp at NSUPS |
 
 
 </div>
